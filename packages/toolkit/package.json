@@ -1,7 +1,7 @@
 {
-  "name": "@reduxjs/toolkit",
-  "version": "1.9.5",
-  "description": "The official, opinionated, batteries-included toolset for efficient Redux development",
+  "name": "@annaet/reduxjs-toolkit",
+  "version": "1.9.6",
+  "description": "Forked from @reduxjs to publish latest code while waiting for the official release",
   "author": "Mark Erikson <mark@isquaredsoftware.com>",
   "license": "MIT",
   "repository": {
